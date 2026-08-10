@@ -1,1 +1,3 @@
+This is a project to practice my html skills following TOP's curriculum...
+
 # odin-recipes
